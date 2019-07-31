@@ -18,7 +18,7 @@ The problem statement was to implement a Question Answering (QA) system using NL
 
 The system would need parsed web articles in a text format.
 
-*Expected Input*: natural language question
+*Expected Input*: Natural language question
 
 *Expected Output*: 
 
