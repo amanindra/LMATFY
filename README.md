@@ -28,6 +28,10 @@ The system would need parsed web articles in a text format.
 
 More details in the project-description.pdf file.
 
+## Contributors:
+
+[<img src="https://avatars0.githubusercontent.com/u/13969654?s=400&v=4" width="100px;" alt="Manindra Anantaneni"/><br /><sub><b>Manindra Anantaneni </b></sub>](https://github.com/amanindra)<br />
+
 ## Technologies
 
 * Python 3.7
