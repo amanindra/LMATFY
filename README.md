@@ -26,7 +26,7 @@ The system would need parsed web articles in a text format.
 * Supporting sentence(s) in Wikipedia document
 * Supporting Wikipedia document name(s)
 
-More details in the project-description.pdf file.
+More details in the [project-description.pdf](https://github.com/gsk12/LMATFY/blob/master/project-description.pdf) file.
 
 ## Contributors:
 
@@ -47,9 +47,9 @@ pip install requests nltk CoreNLPParser CoreNLPDependencyParser PorterStemmer El
 ```
 
 ## Usage
-1) Run nlp-pipeline.py in commandline to parse the files - they are expected to be in the same directory in a folder Wikipedia articles. The parsed files are saved into a pipeline folder.
-2) Run elastic-insert.py to dump json parses from step 1 and index them to elastic search.
-3) Run query-seach.py - expects a file name  (questions seperated by lines in a single file) 
+1) Run `nlp-pipeline.py` in commandline to parse the files - they are expected to be in the same directory in a folder Wikipedia articles. The parsed files are saved into a pipeline folder.
+2) Run `elastic-insert.py` to dump json parses from step 1 and index them to elastic search.
+3) Run `query-seach.py` - expects a file name  (questions seperated by lines in a single file) 
 Example: questions.txt, ouput is generated in a output.txt file formatted as a json structure.
 
 Sample I/O:
