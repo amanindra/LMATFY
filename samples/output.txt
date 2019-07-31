@@ -1,0 +1,860 @@
+[
+    {
+        "Question": "Who founded Apple Inc.?",
+        "answers": {
+            "1": "Jobs , Wozniak and Ronald Wayne Computer Inc.",
+            "2": "NeXT , Jobs Inc.",
+            "3": "Jobs and NeXT Inc.",
+            "4": "Inc",
+            "5": "Computer , Inc. and",
+            "6": "Samsung , Microsoft Motorola Mobility Inc. and Corps",
+            "7": "Energy , LLC Inc.",
+            "8": "Computer , Inc. Wayne and Jobs Wozniak",
+            "9": "Inc. , WebObjects and",
+            "10": ", , Microsoft Computer Inc. Corp"
+        },
+        "documents": {
+            "1": "SteveJobs.txt",
+            "2": "SteveJobs.txt",
+            "3": "AppleInc.txt",
+            "4": "Berkshire_Hathaway.txt",
+            "5": "AppleInc.txt",
+            "6": "AppleInc.txt",
+            "7": "AppleInc.txt",
+            "8": "AppleInc.txt",
+            "9": "SteveJobs.txt",
+            "10": "AppleInc.txt"
+        },
+        "sentences": {
+            "1": "Jobs, Wozniak, and Ronald Wayne founded Apple Computer (now called Apple Inc.) in the garage of Jobs's Los Altos home on Crist Drive.",
+            "2": "1985–1997\nNeXT computer\nFollowing his resignation from Apple in 1985, Jobs founded NeXT Inc. with $7 million.",
+            "3": "Jobs resigned from Apple and founded NeXT Inc. the same year.",
+            "4": "Investment in Apple Inc.",
+            "5": "It was incorporated as Apple Computer, Inc., in January 1977, and sales of its computers, including the Apple II, grew quickly.",
+            "6": "Some litigation examples include Apple v. Samsung, Apple v. Microsoft, Motorola Mobility v. Apple Inc., and Apple Corps v. Apple Computer.",
+            "7": "Apple Energy\n\nApple Energy, LLC is a wholly owned subsidiary of Apple Inc. that sells solar energy.",
+            "8": "Apple Computer, Inc. was incorporated on January 3, 1977, without Wayne, who had left and sold his share of the company back to Jobs and Wozniak for $800 only twelve days after having co-founded Apple.",
+            "9": "After NeXT was acquired by Apple Inc. in 1997, WebObjects was used to build and run the Apple Store, MobileMe services, and the iTunes Store.",
+            "10": "Apple relied on high profit margins and never developed a clear response; instead, they sued Microsoft for using a GUI similar to the Apple Lisa in Apple Computer, Inc. v. Microsoft Corp."
+        }
+    },
+    {
+        "Question": "Who supported Apple in creating a new computing platform?",
+        "answers": {
+            "1": "IBM and Motorola",
+            "2": "Pink",
+            "3": "Computer , Inc. and",
+            "4": "Samsung , Microsoft Motorola Mobility Inc. and Corps",
+            "5": "Jobs and",
+            "6": "Inc",
+            "7": "Energy , LLC Inc.",
+            "8": ", , Microsoft Computer Inc. Corp",
+            "9": "Jobs , Wozniak and Ronald Wayne Computer Inc.",
+            "10": ""
+        },
+        "documents": {
+            "1": "AppleInc.txt",
+            "2": "AppleInc.txt",
+            "3": "AppleInc.txt",
+            "4": "AppleInc.txt",
+            "5": "SteveJobs.txt",
+            "6": "Berkshire_Hathaway.txt",
+            "7": "AppleInc.txt",
+            "8": "AppleInc.txt",
+            "9": "SteveJobs.txt",
+            "10": "AppleInc.txt"
+        },
+        "sentences": {
+            "1": "In 1994, Apple, IBM, and Motorola formed the AIM alliance with the goal of creating a new computing platform (the PowerPC Reference Platform), which would use IBM and Motorola hardware coupled with Apple software.",
+            "2": "By the late 1980s, Apple was developing alternative platforms to System 6, such as A/UX and Pink.",
+            "3": "It was incorporated as Apple Computer, Inc., in January 1977, and sales of its computers, including the Apple II, grew quickly.",
+            "4": "Some litigation examples include Apple v. Samsung, Apple v. Microsoft, Motorola Mobility v. Apple Inc., and Apple Corps v. Apple Computer.",
+            "5": "That same year, Jobs took a few of Apple's members with him to found NeXT, a computer platform development company that specialized in computers for higher-education and business markets.",
+            "6": "Investment in Apple Inc.",
+            "7": "Apple Energy\n\nApple Energy, LLC is a wholly owned subsidiary of Apple Inc. that sells solar energy.",
+            "8": "Apple relied on high profit margins and never developed a clear response; instead, they sued Microsoft for using a GUI similar to the Apple Lisa in Apple Computer, Inc. v. Microsoft Corp.",
+            "9": "Jobs, Wozniak, and Ronald Wayne founded Apple Computer (now called Apple Inc.) in the garage of Jobs's Los Altos home on Crist Drive.",
+            "10": "On August 15, 1998, Apple introduced a new all-in-one computer reminiscent of the Macintosh 128K: the iMac."
+        }
+    },
+    {
+        "Question": "When was Apple Inc. founded?",
+        "answers": {
+            "1": "January 1977",
+            "2": "1985 1997",
+            "3": "January 3 1977",
+            "4": "1997",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "AppleInc.txt",
+            "2": "SteveJobs.txt",
+            "3": "AppleInc.txt",
+            "4": "SteveJobs.txt",
+            "5": "AppleInc.txt",
+            "6": "Berkshire_Hathaway.txt",
+            "7": "SteveJobs.txt",
+            "8": "AppleInc.txt",
+            "9": "AppleInc.txt",
+            "10": "AppleInc.txt"
+        },
+        "sentences": {
+            "1": "It was incorporated as Apple Computer, Inc., in January 1977, and sales of its computers, including the Apple II, grew quickly.",
+            "2": "1985–1997\nNeXT computer\nFollowing his resignation from Apple in 1985, Jobs founded NeXT Inc. with $7 million.",
+            "3": "Apple Computer, Inc. was incorporated on January 3, 1977, without Wayne, who had left and sold his share of the company back to Jobs and Wozniak for $800 only twelve days after having co-founded Apple.",
+            "4": "After NeXT was acquired by Apple Inc. in 1997, WebObjects was used to build and run the Apple Store, MobileMe services, and the iTunes Store.",
+            "5": "Jobs resigned from Apple and founded NeXT Inc. the same year.",
+            "6": "Investment in Apple Inc.",
+            "7": "Jobs, Wozniak, and Ronald Wayne founded Apple Computer (now called Apple Inc.) in the garage of Jobs's Los Altos home on Crist Drive.",
+            "8": "Some litigation examples include Apple v. Samsung, Apple v. Microsoft, Motorola Mobility v. Apple Inc., and Apple Corps v. Apple Computer.",
+            "9": "Apple Energy\n\nApple Energy, LLC is a wholly owned subsidiary of Apple Inc. that sells solar energy.",
+            "10": "Apple relied on high profit margins and never developed a clear response; instead, they sued Microsoft for using a GUI similar to the Apple Lisa in Apple Computer, Inc. v. Microsoft Corp."
+        }
+    },
+    {
+        "Question": "When did Apple go public?",
+        "answers": {
+            "1": "1980",
+            "2": "time",
+            "3": "August 2018",
+            "4": "1950 1980s",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "AppleInc.txt",
+            "2": "SteveJobs.txt",
+            "3": "AppleInc.txt",
+            "4": "India.txt",
+            "5": "SteveJobs.txt",
+            "6": "MahatmaGandhi.txt",
+            "7": "SteveJobs.txt",
+            "8": "OprahWinfrey.txt",
+            "9": "AppleInc.txt",
+            "10": "Walmart.txt"
+        },
+        "sentences": {
+            "1": "Apple went public in 1980 to instant financial success.",
+            "2": "Jobs gave her $500 a month at the time when Apple went public, and Jobs became a millionaire.",
+            "3": "In August 2018, Apple became the first public U.S. company to be valued at over US$1 trillion.",
+            "4": "For most of the period between 1950—when India first became a republic—and the late 1980s, the Congress held a majority in the parliament.",
+            "5": "According to Brennan, Apple's Mike Scott wanted Jobs to give her money, while other Apple executives \"advised him to ignore me or fight if I tried to go after a paternity settlement\".",
+            "6": "Gandhi wanted to go.",
+            "7": "But we were never able to fully let go.",
+            "8": "That's – anybody who goes on her program immediately benefits through the roof.",
+            "9": "Their public relations \"Apple Press Info\" website was changed to an \"Apple Newsroom\" site, featuring a greater emphasis on imagery and therefore lower information density, and combines press releases, news items, and photos.",
+            "10": "The first tests were planned to go live in Denver and Phoenix."
+        }
+    },
+    {
+        "Question": "Where is Apple's headquarters?",
+        "answers": {
+            "1": "Cupertino , California and",
+            "2": "Ireland Republic of",
+            "3": "Europe , Middle East and Africa Cork Ireland",
+            "4": "Los Altos Crist Drive",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "AppleInc.txt",
+            "2": "AppleInc.txt",
+            "3": "AppleInc.txt",
+            "4": "SteveJobs.txt",
+            "5": "AppleInc.txt",
+            "6": "AppleInc.txt",
+            "7": "Berkshire_Hathaway.txt",
+            "8": "AppleInc.txt",
+            "9": "AppleInc.txt",
+            "10": "SteveJobs.txt"
+        },
+        "sentences": {
+            "1": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.",
+            "2": "See also\n\n    Apple media events\n    Pixar\n    EU illegal State aid case against Apple in Ireland\n    Leprechaun economics\n    Corporation tax in the Republic of Ireland\n\nReferences\nBibliography\nFurther reading\nExternal links\n\n    Official website\n    Apple Inc. companies grouped at OpenCorporates\n    Geographic data related to Apple Inc. headquarters at OpenStreetMap",
+            "3": "Apple's headquarters for Europe, the Middle East and Africa (EMEA) are located in Cork in the south of Ireland.",
+            "4": "Jobs, Wozniak, and Ronald Wayne founded Apple Computer (now called Apple Inc.) in the garage of Jobs's Los Altos home on Crist Drive.",
+            "5": "Some litigation examples include Apple v. Samsung, Apple v. Microsoft, Motorola Mobility v. Apple Inc., and Apple Corps v. Apple Computer.",
+            "6": "It was incorporated as Apple Computer, Inc., in January 1977, and sales of its computers, including the Apple II, grew quickly.",
+            "7": "Investment in Apple Inc.",
+            "8": "Apple Energy\n\nApple Energy, LLC is a wholly owned subsidiary of Apple Inc. that sells solar energy.",
+            "9": "Apple relied on high profit margins and never developed a clear response; instead, they sued Microsoft for using a GUI similar to the Apple Lisa in Apple Computer, Inc. v. Microsoft Corp.",
+            "10": "Jobs and Wozniak co-founded Apple in 1976 to sell Wozniak's Apple I personal computer."
+        }
+    },
+    {
+        "Question": "Where did Apple open its first retail store?",
+        "answers": {
+            "1": "Virginia and California",
+            "2": "Union Square San Francisco and",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "AppleInc.txt",
+            "2": "AppleInc.txt",
+            "3": "AppleInc.txt",
+            "4": "SteveJobs.txt",
+            "5": "SteveJobs.txt",
+            "6": "AppleInc.txt",
+            "7": "SteveJobs.txt",
+            "8": "Berkshire_Hathaway.txt",
+            "9": "AppleInc.txt",
+            "10": "AppleInc.txt"
+        },
+        "sentences": {
+            "1": "On May 19, 2001, Apple opened its first official eponymous retail stores in Virginia and California.",
+            "2": "In May 2016, Angela Ahrendts, Apple's current Senior Vice President of Retail, unveiled a significantly redesigned Apple Store in Union Square, San Francisco, featuring large glass doors for the entry, open spaces, and rebranded rooms.",
+            "3": "Some litigation examples include Apple v. Samsung, Apple v. Microsoft, Motorola Mobility v. Apple Inc., and Apple Corps v. Apple Computer.",
+            "4": "A few weeks later, Apple announced it would take back iPods for free at its retail stores.",
+            "5": "Some of Apple's retail stores closed briefly so employees could attend the memorial.",
+            "6": "It was incorporated as Apple Computer, Inc., in January 1977, and sales of its computers, including the Apple II, grew quickly.",
+            "7": "After NeXT was acquired by Apple Inc. in 1997, WebObjects was used to build and run the Apple Store, MobileMe services, and the iTunes Store.",
+            "8": "Investment in Apple Inc.",
+            "9": "Apple Energy\n\nApple Energy, LLC is a wholly owned subsidiary of Apple Inc. that sells solar energy.",
+            "10": "Apple swiftly returned to profitability under the revitalizing Think different campaign, as he rebuilt Apple's status by launching the iMac in 1998, opening the retail chain of Apple Stores in 2001, and acquiring numerous companies to broaden the software portfolio."
+        }
+    },
+    {
+        "Question": "When did Abraham Lincoln die?",
+        "answers": {
+            "1": "April 15, 1865",
+            "2": "1862 35 2014 65",
+            "3": "June 28 1999",
+            "4": "1780s",
+            "5": "2015 16 34 2013 39",
+            "6": "Friday April 14 1865",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "AbrahamLincoln.txt",
+            "2": "AbrahamLincoln.txt",
+            "3": "AbrahamLincoln.txt",
+            "4": "AbrahamLincoln.txt",
+            "5": "AbrahamLincoln.txt",
+            "6": "AbrahamLincoln.txt",
+            "7": "AbrahamLincoln.txt",
+            "8": "AbrahamLincoln.txt",
+            "9": "Texas.txt",
+            "10": "AbrahamLincoln.txt"
+        },
+        "sentences": {
+            "1": "ï»¿Abraham Thomas Lincoln (February 12, 1809 â€“ April 15, 1865) was an American statesman, politician, and lawyer who served as the 16th president of the United States from 1861 until his assassination in April 1865.",
+            "2": "See also\nOutline of Abraham Lincoln\nSexuality of Abraham Lincoln\nDakota War of 1862\nGrace Bedell\nLincoln Tower\nList of photographs of Abraham Lincoln\nList of civil rights leaders\nReferences\nFootnotes\nCitations\nHistoriography\nBarr, John M. \"Holding Up a Flawed Mirror to the American Soul: Abraham Lincoln in the Writings of Lerone Bennett Jr.,\" Journal of the Abraham Lincoln Association 35 (Winter 2014), 43â€“65.",
+            "3": "Abraham Lincoln: A Resource Guide from the Library of Congress\n\"Life Portrait of Abraham Lincoln\", from C-SPAN's American presidents: Life Portraits, June 28, 1999\n\"Writings of Abraham Lincoln\" from C-SPAN's American Writers: A Journey Through History\nAbraham Lincoln: Original Letters and Manuscripts â€“ Shapell Manuscript Foundation\nLincoln/Net: Abraham Lincoln Historical Digitization Project â€“ Northern Illinois University Libraries\nTeaching Abraham Lincoln â€“ National Endowment for the Humanities\nWorks by Abraham Lincoln at Project Gutenberg\nWorks by or about Abraham Lincoln at Internet Archive\nWorks by Abraham Lincoln at LibriVox (public domain audiobooks)\nIn Popular Song:Our Noble Chief Has Passed Away by Cooper/Thomas\nAbraham Lincoln Recollections and Newspaper Articles Collection, McLean County Museum of History\nDigitized items in the Alfred Whital Stern Collection of Lincolniana in the Rare Book and Special Collections Division in the Library of Congress",
+            "4": "Lincoln's paternal grandfather and namesake, Captain Abraham Lincoln, moved the family from Virginia to Jefferson County, Kentucky, in the 1780s.",
+            "5": "Exploring Lincoln: Great Historians Reappraise Our Greatest President (2015), essays by 16 scholars\nManning, Chandra, \"The Shifting Terrain of Attitudes toward Abraham Lincoln and Emancipation\", Journal of the Abraham Lincoln Association, 34 (Winter 2013), 18â€“39.",
+            "6": "Assassination\nAbraham Lincoln was assassinated by John Wilkes Booth on Good Friday, April 14, 1865, while attending a play at Ford's Theatre, five days after Lee's surrender.",
+            "7": "\"Abraham Lincoln (id: L000313)\".",
+            "8": "External links\nOfficial\n\nAbraham Lincoln Presidential Library and Museum\nALPLM's ongoing digitization of all Lincoln papers\nWhite House biography\nOrganizations\n\nAbraham Lincoln Association\nAbraham Lincoln Bicentennial Foundation\nMedia coverage\n\n\"Abraham Lincoln collected news and commentary\".",
+            "9": "When Abraham Lincoln was elected, South Carolina seceded from the Union.",
+            "10": "Abraham Lincoln is remembered as the United States' martyr hero."
+        }
+    },
+    {
+        "Question": "Where did Thomas Lincoln purchase farms?",
+        "answers": {
+            "1": "Kentucky",
+            "2": "Hodgenville Kentucky",
+            "3": "Mississippi Valley",
+            "4": "Washington and Gettysburg",
+            "5": "United States",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "AbrahamLincoln.txt",
+            "2": "AbrahamLincoln.txt",
+            "3": "AbrahamLincoln.txt",
+            "4": "GeorgeWashington.txt",
+            "5": "AbrahamLincoln.txt",
+            "6": "AbrahamLincoln.txt",
+            "7": "AbrahamLincoln.txt",
+            "8": "AbrahamLincoln.txt",
+            "9": "AbrahamLincoln.txt",
+            "10": "AbrahamLincoln.txt"
+        },
+        "sentences": {
+            "1": "Thomas Lincoln bought or leased farms in Kentucky.",
+            "2": "Family and childhood\nEarly life\nAbraham Lincoln was born on February 12, 1809, as the second child of Thomas and Nancy Hanks Lincoln, in a one-room log cabin on Sinking Spring Farm near Hodgenville, Kentucky.",
+            "3": "By the end of 1863, at Lincoln's direction, General Lorenzo Thomas had recruited 20 regiments of blacks from the Mississippi Valley.",
+            "4": "In 1972, Washington scholar James Flexner referred to the Farewell Address as receiving as much acclaim as Thomas Jefferson's Declaration of Independence and Abraham Lincoln's Gettysburg Address.",
+            "5": "ï»¿Abraham Thomas Lincoln (February 12, 1809 â€“ April 15, 1865) was an American statesman, politician, and lawyer who served as the 16th president of the United States from 1861 until his assassination in April 1865.",
+            "6": "Historians disagree on who initiated the move; Thomas Lincoln had no obvious reason to do so.",
+            "7": "\"Stanton and Lincoln virtually conducted the war together,\" say Thomas and Hyman.",
+            "8": "Lincoln disliked the hard labor associated with farm life.",
+            "9": "The Lincolns' fourth son, Thomas \"Tad\" Lincoln, was born on April 4, 1853, and died of heart failure at the age of 18 on July 16, 1871.",
+            "10": "Abraham Lincoln: A Resource Guide from the Library of Congress\n\"Life Portrait of Abraham Lincoln\", from C-SPAN's American presidents: Life Portraits, June 28, 1999\n\"Writings of Abraham Lincoln\" from C-SPAN's American Writers: A Journey Through History\nAbraham Lincoln: Original Letters and Manuscripts â€“ Shapell Manuscript Foundation\nLincoln/Net: Abraham Lincoln Historical Digitization Project â€“ Northern Illinois University Libraries\nTeaching Abraham Lincoln â€“ National Endowment for the Humanities\nWorks by Abraham Lincoln at Project Gutenberg\nWorks by or about Abraham Lincoln at Internet Archive\nWorks by Abraham Lincoln at LibriVox (public domain audiobooks)\nIn Popular Song:Our Noble Chief Has Passed Away by Cooper/Thomas\nAbraham Lincoln Recollections and Newspaper Articles Collection, McLean County Museum of History\nDigitized items in the Alfred Whital Stern Collection of Lincolniana in the Rare Book and Special Collections Division in the Library of Congress"
+        }
+    },
+    {
+        "Question": "When was the Gettysburg address by Abraham Lincoln?",
+        "answers": {
+            "1": "1972",
+            "2": "1863 November 19",
+            "3": "1862 35 2014 65",
+            "4": "June 28 1999",
+            "5": "1780s",
+            "6": "2015 16 34 2013 39",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "GeorgeWashington.txt",
+            "2": "AbrahamLincoln.txt",
+            "3": "AbrahamLincoln.txt",
+            "4": "AbrahamLincoln.txt",
+            "5": "AbrahamLincoln.txt",
+            "6": "AbrahamLincoln.txt",
+            "7": "AbrahamLincoln.txt",
+            "8": "AbrahamLincoln.txt",
+            "9": "Texas.txt",
+            "10": "AbrahamLincoln.txt"
+        },
+        "sentences": {
+            "1": "In 1972, Washington scholar James Flexner referred to the Farewell Address as receiving as much acclaim as Thomas Jefferson's Declaration of Independence and Abraham Lincoln's Gettysburg Address.",
+            "2": "Gettysburg Address (1863)\nLincoln spoke at the Gettysburg battlefield cemetery on November 19, 1863.",
+            "3": "See also\nOutline of Abraham Lincoln\nSexuality of Abraham Lincoln\nDakota War of 1862\nGrace Bedell\nLincoln Tower\nList of photographs of Abraham Lincoln\nList of civil rights leaders\nReferences\nFootnotes\nCitations\nHistoriography\nBarr, John M. \"Holding Up a Flawed Mirror to the American Soul: Abraham Lincoln in the Writings of Lerone Bennett Jr.,\" Journal of the Abraham Lincoln Association 35 (Winter 2014), 43â€“65.",
+            "4": "Abraham Lincoln: A Resource Guide from the Library of Congress\n\"Life Portrait of Abraham Lincoln\", from C-SPAN's American presidents: Life Portraits, June 28, 1999\n\"Writings of Abraham Lincoln\" from C-SPAN's American Writers: A Journey Through History\nAbraham Lincoln: Original Letters and Manuscripts â€“ Shapell Manuscript Foundation\nLincoln/Net: Abraham Lincoln Historical Digitization Project â€“ Northern Illinois University Libraries\nTeaching Abraham Lincoln â€“ National Endowment for the Humanities\nWorks by Abraham Lincoln at Project Gutenberg\nWorks by or about Abraham Lincoln at Internet Archive\nWorks by Abraham Lincoln at LibriVox (public domain audiobooks)\nIn Popular Song:Our Noble Chief Has Passed Away by Cooper/Thomas\nAbraham Lincoln Recollections and Newspaper Articles Collection, McLean County Museum of History\nDigitized items in the Alfred Whital Stern Collection of Lincolniana in the Rare Book and Special Collections Division in the Library of Congress",
+            "5": "Lincoln's paternal grandfather and namesake, Captain Abraham Lincoln, moved the family from Virginia to Jefferson County, Kentucky, in the 1780s.",
+            "6": "Exploring Lincoln: Great Historians Reappraise Our Greatest President (2015), essays by 16 scholars\nManning, Chandra, \"The Shifting Terrain of Attitudes toward Abraham Lincoln and Emancipation\", Journal of the Abraham Lincoln Association, 34 (Winter 2013), 18â€“39.",
+            "7": "\"Abraham Lincoln (id: L000313)\".",
+            "8": "External links\nOfficial\n\nAbraham Lincoln Presidential Library and Museum\nALPLM's ongoing digitization of all Lincoln papers\nWhite House biography\nOrganizations\n\nAbraham Lincoln Association\nAbraham Lincoln Bicentennial Foundation\nMedia coverage\n\n\"Abraham Lincoln collected news and commentary\".",
+            "9": "When Abraham Lincoln was elected, South Carolina seceded from the Union.",
+            "10": "Abraham Lincoln is remembered as the United States' martyr hero."
+        }
+    },
+    {
+        "Question": "Who founded UTD?",
+        "answers": {
+            "1": "Eugene McDermott Cecil Howard Green and J. Erik Jonsson Geophysical Service Incorporated GSI",
+            "2": "University of Texas System",
+            "3": "University of Texas , System",
+            "4": "University of Texas , System",
+            "5": "Margaret McDermott , Eugene",
+            "6": "Cecil Green University Texas and",
+            "7": "Hall , Cecil H. Green J. Erik Jonsson Lloyd V. Berkner Eugene McDermott Library and",
+            "8": "University Texas and Telecom Corridor ,",
+            "9": "UTD Erik Jonsson School of Engineering and and Computer Science",
+            "10": "Jonsson , McDermott and"
+        },
+        "documents": {
+            "1": "UTD.txt",
+            "2": "UTD.txt",
+            "3": "Rchardson_Texas.txt",
+            "4": "Dallas.txt",
+            "5": "UTD.txt",
+            "6": "UTD.txt",
+            "7": "UTD.txt",
+            "8": "Rchardson_Texas.txt",
+            "9": "UTD.txt",
+            "10": "UTD.txt"
+        },
+        "sentences": {
+            "1": "History\nEstablishment\n\nThe UT Dallas founders, Eugene McDermott, Cecil Howard Green and J. Erik Jonsson, purchased Geophysical Service Incorporated (GSI) on December 6, 1941, the day before the attack on Pearl Harbor.",
+            "2": "ï»¿The University of Texas at Dallas (UTD or UT Dallas) is a public research university in the University of Texas System.",
+            "3": "Education\nColleges and universities\n\nThe University of Texas at Dallas, also referred to as UT Dallas or UTD, is a public research university in the University of Texas System.",
+            "4": "The University of Texas at Dallas (UTD), is a part of the University of Texas System.",
+            "5": "Margaret McDermott, wife of UTD founder Eugene McDermott (1899â€“1973), presented the sculpture to the university in 1976.",
+            "6": "Cecil Green helped found the University of Texas at Dallas and outside Green Hall there is a bronze bust of Cecil Green.",
+            "7": "This allowed the campus to expand with the addition of a number of new facilities including the Hoblitzelle Hall, Cecil H. Green Hall, J. Erik Jonsson Hall, Lloyd V. Berkner Hall, the Eugene McDermott Library, a campus bookstore, and the Visual Arts Building.",
+            "8": "It is home to The University of Texas at Dallas (UTD) and the Telecom Corridor®, with a high concentration of telecommunications companies.",
+            "9": "In 2002 the UTD Erik Jonsson School of Engineering and Computer Science was the first in the United States to offer an ABET-accredited B.S.",
+            "10": "Land for the center was acquired by Jonsson, McDermott, and Green in Richardson in 1962 and the first facility, the Laboratory of Earth and Planetary Science (later named the Founders Building), opened on the grounds of the present-day UTD campus in 1964."
+        }
+    },
+    {
+        "Question": "When was UTD established?",
+        "answers": {
+            "1": "1845",
+            "2": "1841",
+            "3": "2015",
+            "4": "1998 2002",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "Dallas.txt",
+            "2": "Dallas.txt",
+            "3": "UTD.txt",
+            "4": "UTD.txt",
+            "5": "UTD.txt",
+            "6": "Rchardson_Texas.txt",
+            "7": "Dallas.txt",
+            "8": "Rchardson_Texas.txt",
+            "9": "Texas.txt",
+            "10": "Dallas.txt"
+        },
+        "sentences": {
+            "1": "The Republic of Texas was annexed by the United States in 1845 and Dallas County was established the following year.",
+            "2": "He established a permanent settlement near the Trinity River named Dallas in 1841.",
+            "3": "Washington Monthly's 2015 Annual College and University Rankings placed UTD at 99th in the United States.",
+            "4": "Athletics\n\nThe University of Texas at Dallas athletics program started when UTD provisionally joined the NCAA Division III and the American Southwest Conference (ASC) in 1998 and was granted full membership in the ASC in 2002.",
+            "5": "ï»¿The University of Texas at Dallas (UTD or UT Dallas) is a public research university in the University of Texas System.",
+            "6": "Education\nColleges and universities\n\nThe University of Texas at Dallas, also referred to as UT Dallas or UTD, is a public research university in the University of Texas System.",
+            "7": "The University of Texas at Dallas (UTD), is a part of the University of Texas System.",
+            "8": "It is home to The University of Texas at Dallas (UTD) and the Telecom Corridor®, with a high concentration of telecommunications companies.",
+            "9": "Both were established by the Texas Constitution and hold stakes in the Permanent University Fund.",
+            "10": "A racetrack for thoroughbreds was built and their owners established the Dallas Jockey Club."
+        }
+    },
+    {
+        "Question": "Where was Melinda born?",
+        "answers": {
+            "1": "Dallas Texas",
+            "2": "Dallas",
+            "3": "New York",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "US",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "MelindaGates.txt",
+            "2": "MelindaGates.txt",
+            "3": "MelindaGates.txt",
+            "4": "MelindaGates.txt",
+            "5": "MelindaGates.txt",
+            "6": "MelindaGates.txt",
+            "7": "MelindaGates.txt",
+            "8": "MelindaGates.txt",
+            "9": "MelindaGates.txt",
+            "10": "MahatmaGandhi.txt"
+        },
+        "sentences": {
+            "1": "Early life\n\nMelinda Ann French was born on August 15, 1964 in Dallas, Texas.",
+            "2": "Melinda graduated as valedictorian from Ursuline Academy of Dallas in 1982.",
+            "3": "Personal life\n\nMelinda began dating CEO Bill Gates in 1987, after meeting him at a trade fair in New York.",
+            "4": "Melinda has an older sister and two younger brothers.",
+            "5": "Melinda Ann Gates DBE (née French; born August 15, 1964) is an American philanthropist and a former general manager at Microsoft.",
+            "6": "At Duke, Melinda was a member of the Kappa Alpha Theta sorority, Beta Rho Chapter.",
+            "7": "As of 2014, Bill and Melinda have donated US$28 billion to the Foundation.",
+            "8": "This has helped her work become recognized, whilst shaping and delivering goals of the Bill & Melinda Gates Foundation.",
+            "9": "Melinda, a Roman Catholic, attended St. Monica Catholic School, where she was the top student in her class year.",
+            "10": "The Gandhi couple had four more children, all sons: Harilal, born in 1888; Manilal, born in 1892; Ramdas, born in 1897; and Devdas, born in 1900."
+        }
+    },
+    {
+        "Question": "Where is the birth place of Oprah Winfrey?",
+        "answers": {
+            "1": "America",
+            "2": "America",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "OprahWinfrey.txt",
+            "2": "OprahWinfrey.txt",
+            "3": "OprahWinfrey.txt",
+            "4": "OprahWinfrey.txt",
+            "5": "OprahWinfrey.txt",
+            "6": "OprahWinfrey.txt",
+            "7": "OprahWinfrey.txt",
+            "8": "OprahWinfrey.txt",
+            "9": "OprahWinfrey.txt",
+            "10": "OprahWinfrey.txt"
+        },
+        "sentences": {
+            "1": "I think Oprah Winfrey is the most powerful woman in the world, not just in America.",
+            "2": "Ben Shapiro of Townhall.com wrote: \"Oprah Winfrey is the most powerful woman in America.",
+            "3": "Oprah Winfrey.",
+            "4": "Oprah Winfrey: The Real Story.",
+            "5": "Early life\n\nWinfrey's first name was spelled \"Orpah\" on her birth certificate after the biblical figure in the Book of Ruth, but people mispronounced it regularly and \"Oprah\" stuck.",
+            "6": "In 2008, she formed her own network, Oprah Winfrey Network.",
+            "7": "The channel, Oprah Radio, features popular contributors to The Oprah Winfrey Show and O, The Oprah Magazine including Nate Berkus, Dr. Mehmet Oz, Bob Greene, Dr. Robin Smith, and Marianne Williamson.",
+            "8": "\"The Oprah Effect\"\n\nThe power of Winfrey's opinions and endorsement to influence public opinion, especially consumer purchasing choices, has been dubbed \"the Oprah Effect\".",
+            "9": "The series finale of The Oprah Winfrey Show aired on May 25, 2011.",
+            "10": "There has been a course taught at the University of Illinois focusing on Winfrey's business acumen, namely: \"History 298: Oprah Winfrey, the Tycoon\"."
+        }
+    },
+    {
+        "Question": "Where is the headquarters of AT&T?",
+        "answers": {
+            "1": "Whitacre Tower Downtown Dallas , Texas",
+            "2": "Omaha , Nebraska United States",
+            "3": "D.C. , District",
+            "4": "Manhattan",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "AT_T.txt",
+            "2": "Berkshire_Hathaway.txt",
+            "3": "Washington_DC.txt",
+            "4": "UnitedStates.txt",
+            "5": "Washington_DC.txt",
+            "6": "AbrahamLincoln.txt",
+            "7": "OprahWinfrey.txt",
+            "8": "AT_T.txt",
+            "9": "AT_T.txt",
+            "10": "UnitedStates.txt"
+        },
+        "sentences": {
+            "1": "ï»¿AT&T Inc. is an American multinational conglomerate holding company headquartered at Whitacre Tower in Downtown Dallas, Texas.",
+            "2": "Berkshire Hathaway Inc. is an American multinational conglomerate holding company headquartered in Omaha, Nebraska, United States.",
+            "3": "D.C. residents elect a non-voting, at-large congressional delegate to the House of Representatives, but the District has no representation in the Senate.",
+            "4": "One of the first major promoters of American theater was impresario P. T. Barnum, who began operating a lower Manhattan entertainment complex in 1841.",
+            "5": "The council chair is also elected at-large.",
+            "6": "He partnered with Stephen T. Logan from 1841 until 1844.",
+            "7": "The school set over 22 acres, opened in January 2007 with an enrollment of 150 pupils (increasing to 450) and features state-of-the-art classrooms, computer and science laboratories, a library, theatre, and beauty salon.",
+            "8": "In November 2017, the U.S. Justice Department said it was moving to sue to block the AT&T-Time Warner merger.",
+            "9": "On June 12, 2018, the AT&T-Time Warner merger was approved by a federal judge.",
+            "10": "This is largely because at-risk workers get almost no government support and are further set back by a very weak collective bargaining system."
+        }
+    },
+    {
+        "Question": "When did AT&T spread to South America?",
+        "answers": {
+            "1": "",
+            "2": "11",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "GeorgeWashington.txt",
+            "2": "AT_T.txt",
+            "3": "Texas.txt",
+            "4": "Washington_DC.txt",
+            "5": "Walmart.txt",
+            "6": "Europe.txt",
+            "7": "India.txt",
+            "8": "AT_T.txt",
+            "9": "UnitedStates.txt",
+            "10": "Europe.txt"
+        },
+        "sentences": {
+            "1": "General Clinton sent Benedict Arnold to Virginia, now a British Brigadier General with 1,700 troops, to capture Portsmouth and to spread terror from there; Washington responded by sending Lafayette south to counter Arnold's efforts.",
+            "2": "AT&T Latin America\n\nAT&T Latin America (formerly AT&T International, Inc.) is a wholly owned division of AT&T which operates in Mexico and 11 countries in South America.",
+            "3": "Texas is in the south central part of the United States of America.",
+            "4": "The council chair is also elected at-large.",
+            "5": "Walmart's investments outside North America have seen mixed results: its operations and subsidiaries in the United Kingdom, South America, and China are highly successful, whereas its ventures in Germany and South Korea failed.",
+            "6": "The powerful West Slavic state of Great Moravia spread its territory all the way south to the Balkans, reaching its largest territorial extent under Svatopluk I and causing a series of armed conflicts with East Francia.",
+            "7": "When the Chalukyas attempted to expand southwards, they were defeated by the Pallavas from farther south, who in turn were opposed by the Pandyas and the Cholas from still farther south.",
+            "8": "ï»¿AT&T Inc. is an American multinational conglomerate holding company headquartered at Whitacre Tower in Downtown Dallas, Texas.",
+            "9": "Fearing that the instability would spread to other regions, President George H.W.",
+            "10": "From Britain, it gradually spread throughout Europe."
+        }
+    },
+    {
+        "Question": "When did Warren Buffett buy Berkshire Hathaway's shares?",
+        "answers": {
+            "1": "2011",
+            "2": "1962",
+            "3": "March 25 2011",
+            "4": "; born August 30, 1930",
+            "5": "May 29 1990",
+            "6": "1964 1/2",
+            "7": "700 September 2 2021",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "IBM.txt",
+            "2": "Berkshire_Hathaway.txt",
+            "3": "Berkshire_Hathaway.txt",
+            "4": "WarrenBuffet.txt",
+            "5": "WarrenBuffet.txt",
+            "6": "Berkshire_Hathaway.txt",
+            "7": "Berkshire_Hathaway.txt",
+            "8": "Berkshire_Hathaway.txt",
+            "9": "WarrenBuffet.txt",
+            "10": "Berkshire_Hathaway.txt"
+        },
+        "sentences": {
+            "1": "In 2011, IBM became the first technology company Warren Buffett's holding company Berkshire Hathaway invested in.",
+            "2": "In 1962, Warren Buffett began buying stock in Berkshire Hathaway after noticing a pattern in the price direction of its stock whenever the company closed a mill.",
+            "3": "On March 25, 2011, Berkshire Hathaway made its first foray into the Indian insurance sector with its non-direct subsidiary BerkshireInsurance.com in the presence of Warren Buffett himself.",
+            "4": "ï»¿Warren Edward Buffett (; born August 30, 1930) is an American business magnate, investor, speaker and philanthropist who serves as the chairman and CEO of Berkshire Hathaway.",
+            "5": "As a billionaire\n\nBuffett became a billionaire when Berkshire Hathaway began selling class A shares on May 29, 1990, with the market closing at $7,175 a share.",
+            "6": "In 1964, Stanton made an oral tender offer of $11?1/2 per share for the company to buy back Buffett's shares.",
+            "7": "Alongside the preferred stock investment, Berkshire obtained warrants allowing Berkshire to buy 700 million common shares at $7.14 per share any time before September 2, 2021.",
+            "8": "Berkshire CEO Warren Buffett's annual letters are widely read and quoted.",
+            "9": "Among the assets paid out were shares of Berkshire Hathaway.",
+            "10": "Governance\n\nThe current members of the board of directors of Berkshire Hathaway are Warren Buffett (Chairman), Charlie Munger (Vice Chairman), Walter Scott, Jr., Thomas S. Murphy, Howard Graham Buffett (Warren's son), Ronald Olson, Charlotte Guyman, David Gottesman, Bill Gates, Steve Burke, Susan Decker, Meryl Witmer, Ajit Jain, and Greg Abel."
+        }
+    },
+    {
+        "Question": "When did Steve Jobs die?",
+        "answers": {
+            "1": "October 5 2011 56",
+            "2": "1955 2011 2005 1995 April 20",
+            "3": "April 1976",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "LaurenePowellJobs.txt",
+            "2": "SteveJobs.txt",
+            "3": "AppleInc.txt",
+            "4": "SteveJobs.txt",
+            "5": "LaurenePowellJobs.txt",
+            "6": "SteveJobs.txt",
+            "7": "SteveJobs.txt",
+            "8": "SteveJobs.txt",
+            "9": "SteveJobs.txt",
+            "10": "SteveJobs.txt"
+        },
+        "sentences": {
+            "1": "Steve Jobs's death\n\nOn October 5, 2011, at the age of 56, Steve Jobs, the CEO of Apple, died due to complications from a relapse of his previously treated islet-cell neuroendocrine pancreatic cancer.",
+            "2": "Steve Jobs @ Andy Hertzfeld's The Original Macintosh (folklore.org)\nSteve Jobs @ Steve Wozniak's woz.org\nSteve Jobs (1955–2011) on IMDb\nFBI Records: The Vault – Steven Paul Jobs at vault.fbi.gov\n2005: Steve Jobs commencement speech at Stanford University\n1995: Excerpts from an Oral History Interview with Steve Jobs, Founder, NeXT Computer – Smithsonian Institution, April 20, 1995.",
+            "3": "Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1976 to develop and sell Wozniak's Apple I personal computer.",
+            "4": "Steve Jobs was the marketing person.\"",
+            "5": "Laurene is also the stepmother of Lisa Brennan-Jobs, Steve's daughter from a previous relationship.",
+            "6": "Lisa Brennan-Jobs, Steve Job's eldest daughter, described Jobs in her memoir as cruel and illustrated patterns of cruel behaviors during her adolescent years.",
+            "7": "Steve.",
+            "8": "He then contacted Simpson and asked \"what is this thing about Steve Jobs?\"",
+            "9": "Regarding his own manner of dealing with Jobs, Catmull writes:\n\nIn all the 26 years with Steve, Steve and I never had one of these loud verbal arguments and it's not my nature to do that.",
+            "10": "Steve Jobs didn't get his hands dirty in that sense.\""
+        }
+    },
+    {
+        "Question": "Where is the headquarters of Exxon Mobil?",
+        "answers": {
+            "1": "Irving Texas",
+            "2": "New York ,",
+            "3": "",
+            "4": "US",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "ExxonMobil.txt",
+            "2": "ExxonMobil.txt",
+            "3": "ExxonMobil.txt",
+            "4": "ExxonMobil.txt",
+            "5": "ExxonMobil.txt",
+            "6": "ExxonMobil.txt",
+            "7": "ExxonMobil.txt",
+            "8": "ExxonMobil.txt",
+            "9": "ExxonMobil.txt",
+            "10": "ExxonMobil.txt"
+        },
+        "sentences": {
+            "1": "ï»¿Exxon Mobil Corporation, doing business as ExxonMobil, is an American multinational oil and gas corporation headquartered in Irving, Texas.",
+            "2": "Standard Oil of New York later became Mobil, a predecessor to Exxon/Mobil.",
+            "3": "Formally, Mobil was bought by Exxon.",
+            "4": "1998 to 2000\n\nIn 1998, Exxon and Mobil signed a US$73.7 billion merger agreement forming a new company called Exxon Mobil Corp. (ExxonMobil), the largest oil company and the third largest company in the world.",
+            "5": "The usage of Exxon and Mobil brands was franchised to the new owners.",
+            "6": "ExxonMobil's primary brands are Exxon, Mobil, Esso, and ExxonMobil Chemical.",
+            "7": "Downstream\n\nExxonMobil markets products around the world under the brands of Exxon, Mobil, and Esso.",
+            "8": "See also\n\n    Exxon Corp. v Exxon Insurance Consultants International Ltd\n    Kivalina v. Exxon Mobil Corp.",
+            "9": "History\n\nExxonMobil was formed in 1999 by the merger of two major oil companies, Exxon and Mobil.",
+            "10": "Mobil's shareholders received 1.32 Exxon's share for each Mobil's share."
+        }
+    },
+    {
+        "Question": "When was ExxonMobile created?",
+        "answers": {
+            "1": "1999",
+            "2": "1998 2000",
+            "3": "1950 1980s",
+            "4": "1966",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "ExxonMobil.txt",
+            "2": "ExxonMobil.txt",
+            "3": "India.txt",
+            "4": "ExxonMobil.txt",
+            "5": "ExxonMobil.txt",
+            "6": "ExxonMobil.txt",
+            "7": "ExxonMobil.txt",
+            "8": "ExxonMobil.txt",
+            "9": "ExxonMobil.txt",
+            "10": "ExxonMobil.txt"
+        },
+        "sentences": {
+            "1": "History\n\nExxonMobil was formed in 1999 by the merger of two major oil companies, Exxon and Mobil.",
+            "2": "1998 to 2000\n\nIn 1998, Exxon and Mobil signed a US$73.7 billion merger agreement forming a new company called Exxon Mobil Corp. (ExxonMobil), the largest oil company and the third largest company in the world.",
+            "3": "For most of the period between 1950—when India first became a republic—and the late 1980s, the Congress held a majority in the parliament.",
+            "4": "In 1966, Socony Mobil Oil Company became the Mobil Oil Corporation.",
+            "5": "ï»¿Exxon Mobil Corporation, doing business as ExxonMobil, is an American multinational oil and gas corporation headquartered in Irving, Texas.",
+            "6": "In Japan, ExxonMobil has a 22% stake in TonenGeneral Sekiyu K.K., a refining company.>\nChemicals\n\nExxonMobil Chemical is a petrochemical company which was created by merging Exxon's and Mobil's chemical industries.",
+            "7": "ExxonMobil's primary brands are Exxon, Mobil, Esso, and ExxonMobil Chemical.",
+            "8": "Downstream\n\nExxonMobil markets products around the world under the brands of Exxon, Mobil, and Esso.",
+            "9": "In addition, ExxonMobil should sell its Benicia Refinery in California, terminal operations in Boston, the Washington, D.C. area and Guam, interest in the Colonial pipeline, Mobil's interest in the Trans-Alaska Pipeline System, Exxon's jet turbine oil business, and give-up the option to buy Tosco Corporation gas stations.",
+            "10": "Standard Oil of New York later became Mobil, a predecessor to Exxon/Mobil."
+        }
+    },
+    {
+        "Question": "Where is the headquarters of Amazon.com?",
+        "answers": {
+            "1": "Seattle Washington and",
+            "2": "Amazon",
+            "3": "United States",
+            "4": "U.S. and Richardson",
+            "5": "United States and",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "Amazon_com.txt",
+            "2": "Amazon_com.txt",
+            "3": "Amazon_com.txt",
+            "4": "Rchardson_Texas.txt",
+            "5": "Amazon_com.txt",
+            "6": "OprahWinfrey.txt",
+            "7": "Amazon_com.txt",
+            "8": "Amazon_com.txt",
+            "9": "Amazon_com.txt",
+            "10": "Amazon_com.txt"
+        },
+        "sentences": {
+            "1": "ï»¿Amazon.com, Inc. (), is an American multinational technology company based in Seattle, Washington that focuses in e-commerce, cloud computing, and artificial intelligence.",
+            "2": "The sales are processed through Amazon.com and end up at individual sellers for processing and order fulfillment and Amazon leases space for these retailers.",
+            "3": "As of 2018, Amazon.com is ranked 8th on the Fortune 500 rankings of the largest United States corporations by total revenue.",
+            "4": "Corporate headquarters\n\nMetroPCS, Fossil, Lennox International, Vent-A-Hood, Wingstop Restaurants, id Software, VCE, BlueCross BlueShield of Texas, RealPage, Fujitsu Network Communications (U.S. Headquarters) and Samsung Mobile have their corporate headquarters in Richardson.",
+            "5": "According to regulatory filings, Amazon.com focuses its lobbying on the United States Congress, the Federal Communications Commission and the Federal Reserve.",
+            "6": "The school set over 22 acres, opened in January 2007 with an enrollment of 150 pupils (increasing to 450) and features state-of-the-art classrooms, computer and science laboratories, a library, theatre, and beauty salon.",
+            "7": "Amazon.com was a corporate member of the American Legislative Exchange Council (ALEC) until it dropped membership following protests at its shareholders' meeting on May 24, 2012.",
+            "8": "Website\n\nThe domain amazon.com attracted at least 615 million visitors annually by 2008.",
+            "9": "On August 23, 2017, it was reported that the Federal Trade Commission approved the merger between Amazon.com and Whole Foods Market.",
+            "10": "Amazon.com spent roughly $3.5 million, $5 million and $9.5 million on lobbying, in 2013, 2014 and 2015, respectively."
+        }
+    },
+    {
+        "Question": "Who shot Abraham Lincoln?",
+        "answers": {
+            "1": "Abraham Lincoln",
+            "2": "Abraham Lincoln Presidential Library and Museum ALPLM White House Organizations Association Bicentennial Foundation Media",
+            "3": "Abraham Lincoln Sexuality Barr , John M. Lerone Bennett Jr. Association",
+            "4": "Abraham Lincoln Congress , C-SPAN History and Historical Digitization Northern Illinois University Libraries Teaching National Endowment for Humanities LibriVox Cooper/Thomas Recollections McLean County Museum Digitized",
+            "5": "Abraham Lincoln ,",
+            "6": "Abraham Lincoln",
+            "7": "Lincoln and , Abraham",
+            "8": "Lincoln , Manning Chandra Abraham and Association",
+            "9": "United States Navy Lincoln ,",
+            "10": "and and Lincoln , Ford Petersen House Abraham Presidential Library Museum"
+        },
+        "documents": {
+            "1": "AbrahamLincoln.txt",
+            "2": "AbrahamLincoln.txt",
+            "3": "AbrahamLincoln.txt",
+            "4": "AbrahamLincoln.txt",
+            "5": "Texas.txt",
+            "6": "AbrahamLincoln.txt",
+            "7": "AbrahamLincoln.txt",
+            "8": "AbrahamLincoln.txt",
+            "9": "AbrahamLincoln.txt",
+            "10": "AbrahamLincoln.txt"
+        },
+        "sentences": {
+            "1": "\"Abraham Lincoln (id: L000313)\".",
+            "2": "External links\nOfficial\n\nAbraham Lincoln Presidential Library and Museum\nALPLM's ongoing digitization of all Lincoln papers\nWhite House biography\nOrganizations\n\nAbraham Lincoln Association\nAbraham Lincoln Bicentennial Foundation\nMedia coverage\n\n\"Abraham Lincoln collected news and commentary\".",
+            "3": "See also\nOutline of Abraham Lincoln\nSexuality of Abraham Lincoln\nDakota War of 1862\nGrace Bedell\nLincoln Tower\nList of photographs of Abraham Lincoln\nList of civil rights leaders\nReferences\nFootnotes\nCitations\nHistoriography\nBarr, John M. \"Holding Up a Flawed Mirror to the American Soul: Abraham Lincoln in the Writings of Lerone Bennett Jr.,\" Journal of the Abraham Lincoln Association 35 (Winter 2014), 43â€“65.",
+            "4": "Abraham Lincoln: A Resource Guide from the Library of Congress\n\"Life Portrait of Abraham Lincoln\", from C-SPAN's American presidents: Life Portraits, June 28, 1999\n\"Writings of Abraham Lincoln\" from C-SPAN's American Writers: A Journey Through History\nAbraham Lincoln: Original Letters and Manuscripts â€“ Shapell Manuscript Foundation\nLincoln/Net: Abraham Lincoln Historical Digitization Project â€“ Northern Illinois University Libraries\nTeaching Abraham Lincoln â€“ National Endowment for the Humanities\nWorks by Abraham Lincoln at Project Gutenberg\nWorks by or about Abraham Lincoln at Internet Archive\nWorks by Abraham Lincoln at LibriVox (public domain audiobooks)\nIn Popular Song:Our Noble Chief Has Passed Away by Cooper/Thomas\nAbraham Lincoln Recollections and Newspaper Articles Collection, McLean County Museum of History\nDigitized items in the Alfred Whital Stern Collection of Lincolniana in the Rare Book and Special Collections Division in the Library of Congress",
+            "5": "When Abraham Lincoln was elected, South Carolina seceded from the Union.",
+            "6": "Abraham Lincoln is remembered as the United States' martyr hero.",
+            "7": "Lincoln's paternal grandfather and namesake, Captain Abraham Lincoln, moved the family from Virginia to Jefferson County, Kentucky, in the 1780s.",
+            "8": "Exploring Lincoln: Great Historians Reappraise Our Greatest President (2015), essays by 16 scholars\nManning, Chandra, \"The Shifting Terrain of Attitudes toward Abraham Lincoln and Emancipation\", Journal of the Abraham Lincoln Association, 34 (Winter 2013), 18â€“39.",
+            "9": "The United States Navy Nimitz-class aircraft carrier USS Abraham Lincoln (CVN-72) is named after Lincoln, the second Navy ship to bear his name.",
+            "10": "The most famous and most visited memorials are Lincoln's sculpture on Mount Rushmore; Lincoln Memorial, Ford's Theatre, and Petersen House (where he died) in Washington, D.C.; and the Abraham Lincoln Presidential Library and Museum in Springfield, Illinois, not far from Lincoln's home, as well as his tomb."
+        }
+    },
+    {
+        "Question": "Where is UTD located?",
+        "answers": {
+            "1": "Dallas UT",
+            "2": "Dallas , UT",
+            "3": "Dallas ,",
+            "4": "Dallas Fair Park",
+            "5": "Dallas and ,",
+            "6": "UT Dallas and",
+            "7": "Dallas and",
+            "8": "",
+            "9": "",
+            "10": ""
+        },
+        "documents": {
+            "1": "UTD.txt",
+            "2": "Rchardson_Texas.txt",
+            "3": "Dallas.txt",
+            "4": "UTD.txt",
+            "5": "Rchardson_Texas.txt",
+            "6": "UTD.txt",
+            "7": "UTD.txt",
+            "8": "Dallas.txt",
+            "9": "Dallas.txt",
+            "10": "UTD.txt"
+        },
+        "sentences": {
+            "1": "ï»¿The University of Texas at Dallas (UTD or UT Dallas) is a public research university in the University of Texas System.",
+            "2": "Education\nColleges and universities\n\nThe University of Texas at Dallas, also referred to as UT Dallas or UTD, is a public research university in the University of Texas System.",
+            "3": "The University of Texas at Dallas (UTD), is a part of the University of Texas System.",
+            "4": "UTD's artist residency CentralTrak is located East of downtown Dallas one block away from Fair Park.",
+            "5": "It is home to The University of Texas at Dallas (UTD) and the Telecom Corridor®, with a high concentration of telecommunications companies.",
+            "6": "The center is located near the UT Dallas' Callier Center for Communication Disorders and adjacent to the north campus of University of Texas Southwestern Medical Center in the city of Dallas.",
+            "7": "Athletics\n\nThe University of Texas at Dallas athletics program started when UTD provisionally joined the NCAA Division III and the American Southwest Conference (ASC) in 1998 and was granted full membership in the ASC in 2002.",
+            "8": "Located in downtown Dallas, El Centro College is the flagship institution of the Dallas County Community College District.",
+            "9": "Among universities under the age of 50 years old, UTD ranks No.",
+            "10": "In their inaugural year, UTD eSports ranked No."
+        }
+    }
+]
